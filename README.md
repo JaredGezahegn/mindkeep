@@ -1,6 +1,14 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3155d21c-3513-4435-8311-e9cb55948897/deploy-status)](https://app.netlify.com/projects/mindkeepja/deploys)
 
-# 📝 React Notes App (Google Keep Clone)
+
+
+## 🚀 Live Demo
+
+Check out the live site here:  
+👉 [View Live](https://mindkeepja.netlify.app)
+
+
+# 📝 React Notes App (inspired by **Google Keep**)
 
 A simple and responsive note-taking application inspired by **Google Keep**, built with **React** and **Tailwind CSS**.  
 Users can **add, delete, search, and pin notes** easily — all stored locally on the browser using React Context API.
